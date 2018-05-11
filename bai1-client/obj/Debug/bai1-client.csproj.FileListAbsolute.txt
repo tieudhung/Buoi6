@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\buoi06\bai1-client\bin\Debug\bai1-client.exe.config
+C:\Users\User\Desktop\buoi06\bai1-client\bin\Debug\bai1-client.exe
+C:\Users\User\Desktop\buoi06\bai1-client\bin\Debug\bai1-client.pdb
+C:\Users\User\Desktop\buoi06\bai1-client\obj\Debug\bai1_client.Form1.resources
+C:\Users\User\Desktop\buoi06\bai1-client\obj\Debug\bai1_client.Properties.Resources.resources
+C:\Users\User\Desktop\buoi06\bai1-client\obj\Debug\bai1-client.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\buoi06\bai1-client\obj\Debug\bai1-client.exe
+C:\Users\User\Desktop\buoi06\bai1-client\obj\Debug\bai1-client.pdb

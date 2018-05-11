@@ -1,0 +1,9 @@
+C:\Users\SV\Desktop\buoi06\client\bin\Debug\client.exe
+C:\Users\SV\Desktop\buoi06\client\bin\Debug\client.pdb
+C:\Users\SV\Desktop\buoi06\client\obj\x86\Debug\client.exe
+C:\Users\SV\Desktop\buoi06\client\obj\x86\Debug\client.pdb
+C:\Users\User\Desktop\buoi06\client\obj\x86\Debug\client.exe
+C:\Users\User\Desktop\buoi06\client\obj\x86\Debug\client.pdb
+C:\Users\User\Desktop\buoi06\client\bin\Debug\client.exe
+C:\Users\User\Desktop\buoi06\client\bin\Debug\client.pdb
+C:\Users\User\Desktop\buoi06\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache

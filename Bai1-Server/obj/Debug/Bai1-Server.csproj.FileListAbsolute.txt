@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\buoi06\Bai1-Server\bin\Debug\Bai1-Server.exe.config
+C:\Users\User\Desktop\buoi06\Bai1-Server\bin\Debug\Bai1-Server.exe
+C:\Users\User\Desktop\buoi06\Bai1-Server\bin\Debug\Bai1-Server.pdb
+C:\Users\User\Desktop\buoi06\Bai1-Server\obj\Debug\Bai1-Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\buoi06\Bai1-Server\obj\Debug\Bai1_Server.Form1.resources
+C:\Users\User\Desktop\buoi06\Bai1-Server\obj\Debug\Bai1_Server.Properties.Resources.resources
+C:\Users\User\Desktop\buoi06\Bai1-Server\obj\Debug\Bai1-Server.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\buoi06\Bai1-Server\obj\Debug\Bai1-Server.exe
+C:\Users\User\Desktop\buoi06\Bai1-Server\obj\Debug\Bai1-Server.pdb

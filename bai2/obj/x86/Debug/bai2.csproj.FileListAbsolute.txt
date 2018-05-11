@@ -1,0 +1,6 @@
+C:\Users\SV\Desktop\buoi06\bai2\bin\Debug\bai2.exe
+C:\Users\SV\Desktop\buoi06\bai2\bin\Debug\bai2.pdb
+C:\Users\SV\Desktop\buoi06\bai2\obj\x86\Debug\bai2.exe
+C:\Users\SV\Desktop\buoi06\bai2\obj\x86\Debug\bai2.pdb
+C:\Users\User\Desktop\buoi06\bai2\obj\x86\Debug\bai2.exe
+C:\Users\User\Desktop\buoi06\bai2\obj\x86\Debug\bai2.pdb
